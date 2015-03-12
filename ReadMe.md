@@ -21,7 +21,7 @@
 <p class="c1 c14"><span class="c2"></span></p>
 <p class="c4"><span class="c2">4) Deliverables</span></p>
 
-* Assighment (code, project files) via a Github Release URL.  Please PM to Stuart on Slack.
+* Assignment (code, project files) via a Github Release URL.  Please PM to Stuart on Slack.
 
 <p class="c1"><span class="c2 c3"></span></p>
 <p class="c4"><span class="c2">5) Timeline:</span></p>
